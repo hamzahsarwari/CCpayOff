@@ -1,6 +1,4 @@
 // sarwari-CC_pay.cpp
-// Hamzah Sarwari Cisp 360 Professor Fowler
-// 09/20/2017
 #include<iostream>
 #include<cmath>
 #include<string>
